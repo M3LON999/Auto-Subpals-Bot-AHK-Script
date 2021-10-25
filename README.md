@@ -1,0 +1,1 @@
+# Auto-Subpals-Bot-AHK-Script
