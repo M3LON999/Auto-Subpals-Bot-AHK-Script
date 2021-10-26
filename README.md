@@ -1,3 +1,3 @@
 # Auto-Subpals-Bot-AHK-Script
-<hr>
+<!-- <hr> -->
 Automate the process of subpals.
